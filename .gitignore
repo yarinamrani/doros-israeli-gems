@@ -1,3 +1,10 @@
 node_modules
 dist
 .DS_Store
+imported-data/whatsapp-server/
+imported-data/whatsapp-server/
+imported-data/*.log
+imported-data/.DS_Store
+imported-data/restaurant-invoices/.DS_Store
+imported-data/restaurant-invoices/credentials.json
+imported-data/restaurant-invoices/token.json
